@@ -49,7 +49,7 @@ class ExpandableBottomSheet extends StatefulWidget {
   ///
   /// [persistentContentHeight] has to be greater 0.
   const ExpandableBottomSheet({
-    Key? key,
+    super.key,
     required this.expandableContent,
     required this.background,
     this.persistentContentHeight = 0.0,
@@ -62,8 +62,7 @@ class ExpandableBottomSheet extends StatefulWidget {
     this.onIsContractedCallback,
     this.enableToggle = false,
     this.isDraggable = true,
-  })  : assert(persistentContentHeight >= 0),
-        super(key: key);
+  })  : assert(persistentContentHeight >= 0);
 
   @override
   ExpandableBottomSheetState createState() => ExpandableBottomSheetState();

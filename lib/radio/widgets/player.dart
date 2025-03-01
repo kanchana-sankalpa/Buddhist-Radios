@@ -4,9 +4,15 @@ import 'package:flutter/material.dart';
 
 class Player extends StatelessWidget {
   const Player({
-    Key? key,
-    required this.percentageOpen, required this.title, required this.listener, required this.imageURL, required this. icon, required this.onTab, this.metadata,
-  }) : super(key: key);
+    super.key,
+    required this.percentageOpen,
+    required this.title,
+    required this.listener,
+    required this.imageURL,
+    required this.icon,
+    required this.onTab,
+    this.metadata,
+  });
 
   final double percentageOpen;
   final String title;
@@ -28,8 +34,9 @@ class Player extends StatelessWidget {
       metaDescription = metadata![1];
       image = Uri.parse(metadata![2]);
     } else {
-      metaTitle = 'Metadata';
-      metaDescription = '';
+      metaTitle = '';
+      metaDescription =
+          'ඔබ ශ්‍රී ලංකාවේ සිටින්නේ නම්, ඔබට 101.3 MHz හෝ 101.5 MHz වලදී FM රේඩියෝ තරංග ඔස්සේ The Buddhist Radio ද, Rangari (Sri Lanka) FM 104.4 MHz  තරංග ඔස්සේ ද සුසර කළ හැකිය, දහම් ගඟ රේඩියෝව dahamgagana.lk හරහා විකාශය වේ, Muditha FM යනු කුරුණෑගල තිත්තවැල්ල උඩමළු පුරාණ රාජමහා විහාරස්ථානයේ සිට මෙහෙයවනු ලබන ගුවන් විදුලි නාලිකාවකි. සජීවී ප්‍රවාහයට මෙම යෙදුම හරහා ප්‍රවේශ විය හැකි අතර, බාධාවකින් තොරව සවන්දීමේ අත්දැකීමක් ලබා දේ. මෙම යෙදුම බුද්ධාගමේ ඉගැන්වීම් සහ ප්‍රඥාව පුළුල් ප්‍රේක්ෂක පිරිසක් වෙත ව්‍යාප්ත කිරීම සඳහා කැප වූ genotechies විසින් නිර්මාණය කරන ලද ලාභ නොලබන පුණ්‍ය කටයුත්තකි.';
       image = Uri.parse(imageURL);
     }
 
@@ -84,14 +91,16 @@ class Player extends StatelessWidget {
           ),
           Opacity(
             opacity: percentageOpen > 0.5
-              ? min(1, max(0, percentageOpen - 0.5) * 2)
-              : 0,
+                ? min(1, max(0, percentageOpen - 0.5) * 2)
+                : 0,
             child: Column(
               children: [
                 SizedBox(
                   height: imageHeight * 0.9,
                 ),
-                const SizedBox(height: 20,),
+                const SizedBox(
+                  height: 20,
+                ),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceAround,
                   crossAxisAlignment: CrossAxisAlignment.start,
@@ -185,7 +194,8 @@ class Player extends StatelessWidget {
                           color: Colors.grey[800],
                           shape: BoxShape.circle,
                         ),
-                        padding: const EdgeInsets.only(bottom: 16, left: 12, right: 26, top: 10),
+                        padding: const EdgeInsets.only(
+                            bottom: 16, left: 12, right: 26, top: 10),
                         child: IconButton(
                           onPressed: onTab,
                           icon: Icon(
@@ -214,9 +224,7 @@ class Player extends StatelessWidget {
           Container(
             height: imageHeight,
             padding: const EdgeInsets.all(8.0),
-            decoration: BoxDecoration(
-              borderRadius: BorderRadius.circular(16)
-            ),
+            decoration: BoxDecoration(borderRadius: BorderRadius.circular(16)),
             child: Container(
               clipBehavior: Clip.hardEdge,
               decoration: BoxDecoration(borderRadius: BorderRadius.circular(8)),
