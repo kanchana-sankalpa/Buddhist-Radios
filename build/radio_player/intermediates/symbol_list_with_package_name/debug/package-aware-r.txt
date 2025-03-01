@@ -1,0 +1,2 @@
+com.cheebeez.radio_player
+string channel_name

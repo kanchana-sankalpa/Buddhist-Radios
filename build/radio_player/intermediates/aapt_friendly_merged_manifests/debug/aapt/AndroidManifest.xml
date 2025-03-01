@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cheebeez.radio_player" >
+
+    <uses-sdk android:minSdkVersion="23" />
+
+    <!-- Permissions for the plugin -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- Services for the plugin -->
+    <application android:usesCleartextTraffic="true" >
+        <service
+            android:name="com.cheebeez.radio_player.RadioPlayerService"
+            android:exported="false"
+            android:foregroundServiceType="mediaPlayback" >
+        </service>
+
+        <receiver
+            android:name="androidx.media.session.MediaButtonReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_BUTTON" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

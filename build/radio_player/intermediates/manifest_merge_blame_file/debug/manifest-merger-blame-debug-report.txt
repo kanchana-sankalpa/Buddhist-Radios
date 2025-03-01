@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cheebeez.radio_player" >
+4
+5    <uses-sdk android:minSdkVersion="23" />
+6
+7    <!-- Permissions for the plugin -->
+8    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+8-->/Users/kanchgunathilaka/.pub-cache/hosted/pub.dev/radio_player-1.7.1/android/src/main/AndroidManifest.xml:5:5-77
+8-->/Users/kanchgunathilaka/.pub-cache/hosted/pub.dev/radio_player-1.7.1/android/src/main/AndroidManifest.xml:5:22-74
+9    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+9-->/Users/kanchgunathilaka/.pub-cache/hosted/pub.dev/radio_player-1.7.1/android/src/main/AndroidManifest.xml:6:5-92
+9-->/Users/kanchgunathilaka/.pub-cache/hosted/pub.dev/radio_player-1.7.1/android/src/main/AndroidManifest.xml:6:22-89
+10    <uses-permission android:name="android.permission.INTERNET" />
+10-->/Users/kanchgunathilaka/.pub-cache/hosted/pub.dev/radio_player-1.7.1/android/src/main/AndroidManifest.xml:7:5-67
+10-->/Users/kanchgunathilaka/.pub-cache/hosted/pub.dev/radio_player-1.7.1/android/src/main/AndroidManifest.xml:7:22-64
+11
+12    <!-- Services for the plugin -->
+13    <application android:usesCleartextTraffic="true" >
+13-->/Users/kanchgunathilaka/.pub-cache/hosted/pub.dev/radio_player-1.7.1/android/src/main/AndroidManifest.xml:10:5-21:19
+13-->/Users/kanchgunathilaka/.pub-cache/hosted/pub.dev/radio_player-1.7.1/android/src/main/AndroidManifest.xml:10:18-53
+14        <service
+14-->/Users/kanchgunathilaka/.pub-cache/hosted/pub.dev/radio_player-1.7.1/android/src/main/AndroidManifest.xml:11:9-15:19
+15            android:name="com.cheebeez.radio_player.RadioPlayerService"
+15-->/Users/kanchgunathilaka/.pub-cache/hosted/pub.dev/radio_player-1.7.1/android/src/main/AndroidManifest.xml:12:11-45
+16            android:exported="false"
+16-->/Users/kanchgunathilaka/.pub-cache/hosted/pub.dev/radio_player-1.7.1/android/src/main/AndroidManifest.xml:14:11-35
+17            android:foregroundServiceType="mediaPlayback" >
+17-->/Users/kanchgunathilaka/.pub-cache/hosted/pub.dev/radio_player-1.7.1/android/src/main/AndroidManifest.xml:13:11-56
+18        </service>
+19
+20        <receiver
+20-->/Users/kanchgunathilaka/.pub-cache/hosted/pub.dev/radio_player-1.7.1/android/src/main/AndroidManifest.xml:16:9-20:20
+21            android:name="androidx.media.session.MediaButtonReceiver"
+21-->/Users/kanchgunathilaka/.pub-cache/hosted/pub.dev/radio_player-1.7.1/android/src/main/AndroidManifest.xml:16:19-76
+22            android:exported="true" >
+22-->/Users/kanchgunathilaka/.pub-cache/hosted/pub.dev/radio_player-1.7.1/android/src/main/AndroidManifest.xml:16:77-100
+23            <intent-filter>
+23-->/Users/kanchgunathilaka/.pub-cache/hosted/pub.dev/radio_player-1.7.1/android/src/main/AndroidManifest.xml:17:13-19:29
+24                <action android:name="android.intent.action.MEDIA_BUTTON" />
+24-->/Users/kanchgunathilaka/.pub-cache/hosted/pub.dev/radio_player-1.7.1/android/src/main/AndroidManifest.xml:18:17-77
+24-->/Users/kanchgunathilaka/.pub-cache/hosted/pub.dev/radio_player-1.7.1/android/src/main/AndroidManifest.xml:18:25-74
+25            </intent-filter>
+26        </receiver>
+27    </application>
+28
+29</manifest>

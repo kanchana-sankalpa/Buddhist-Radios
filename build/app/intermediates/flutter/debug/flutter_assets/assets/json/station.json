@@ -1,0 +1,58 @@
+[
+    {
+        "number": "ALT 98.0",
+        "name": "The Buddhist Radio",
+        "streamURL": "http://uk7freenew.listen2myradio.com:22086",
+        "imageURL": "https://lh3.googleusercontent.com/pw/AP1GczPbf3CB-CnmbQSDZOltkbn4rHEp2kQmWgljAPt3tNBCM2eR62vOigx_YPOXB-fGzui7VRo6k-efOtfElQdME1dDIDTA_z3_dQ5GbKDA1EdD5KW7inqYYjME5DH1SFzfT0JkEy1on-U7ZmZYiRXnItY=w500-h500-s-no?authuser=0?size=300x300",
+        "desc": "The Buddhist Radio",
+        "location" : "Colombo, Sri Lanka",
+        "listener" : "counting Listener",
+        "isPlay": false,
+        "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+    },
+    {
+        "number": "ALT 98.0",
+        "name": "Rangiri FM",
+        "streamURL": "https://rangiri.radioca.st/stream?type=http&nocache=112730",
+        "imageURL": "https://lh3.googleusercontent.com/pw/AP1GczPbf3CB-CnmbQSDZOltkbn4rHEp2kQmWgljAPt3tNBCM2eR62vOigx_YPOXB-fGzui7VRo6k-efOtfElQdME1dDIDTA_z3_dQ5GbKDA1EdD5KW7inqYYjME5DH1SFzfT0JkEy1on-U7ZmZYiRXnItY=w500-h500-s-no?authuser=0?size=300x300",
+        "desc": "Rangiri FM",
+        "location" : "Colombo, Sri Lanka",
+        "listener" : "counting Listener",
+        "isPlay": false,
+        "longDesc": "Radio 1190 is the bomb."
+    },
+  
+    {
+        "number": "ALT 98.0",
+        "name": "Daham Gagana Radio",
+        "streamURL": "https://cp12.serverse.com/proxy/fdcpgwaf?mp=/stream",
+        "imageURL": "https://lh3.googleusercontent.com/pw/AP1GczPbf3CB-CnmbQSDZOltkbn4rHEp2kQmWgljAPt3tNBCM2eR62vOigx_YPOXB-fGzui7VRo6k-efOtfElQdME1dDIDTA_z3_dQ5GbKDA1EdD5KW7inqYYjME5DH1SFzfT0JkEy1on-U7ZmZYiRXnItY=w500-h500-s-no?authuser=0?size=300x300",
+        "desc": "Daham Gagana Radio",
+        "location" : "Colombo, Sri Lanka",
+        "listener" : "counting Listener",
+        "isPlay": false,
+        "longDesc": "Radio 1190 is the bomb."
+    },
+    {
+        "number": "ALT 98.0",
+        "name": "Muditha FM",
+        "streamURL": "https://stream-176.zeno.fm/az2ir3hatzjuv?zs=xKQMRmnZTZCuQ4EpcD0t_A",
+        "imageURL": "https://lh3.googleusercontent.com/pw/AP1GczPbf3CB-CnmbQSDZOltkbn4rHEp2kQmWgljAPt3tNBCM2eR62vOigx_YPOXB-fGzui7VRo6k-efOtfElQdME1dDIDTA_z3_dQ5GbKDA1EdD5KW7inqYYjME5DH1SFzfT0JkEy1on-U7ZmZYiRXnItY=w500-h500-s-no?authuser=0?size=300x300",
+        "desc": "Muditha FM",
+        "location" : "Colombo, Sri Lanka",
+        "listener" : "counting Listener",
+        "isPlay": false,
+        "longDesc": "Radio 1190 is the bomb."
+    },
+    {
+        "number": "ALT 98.0",
+        "name": "Savanata Sisilasa",
+        "streamURL": "https://cp12.serverse.com/proxy/savanata?mp=/stream",
+        "imageURL": "https://lh3.googleusercontent.com/pw/AP1GczPbf3CB-CnmbQSDZOltkbn4rHEp2kQmWgljAPt3tNBCM2eR62vOigx_YPOXB-fGzui7VRo6k-efOtfElQdME1dDIDTA_z3_dQ5GbKDA1EdD5KW7inqYYjME5DH1SFzfT0JkEy1on-U7ZmZYiRXnItY=w500-h500-s-no?authuser=0?size=300x300",
+        "desc": "Savanata Sisilasa",
+        "location" : "Colombo, Sri Lanka",
+        "listener" : "counting Listener",
+        "isPlay": false,
+        "longDesc": "Radio 1190 is the bomb."
+    }
+]

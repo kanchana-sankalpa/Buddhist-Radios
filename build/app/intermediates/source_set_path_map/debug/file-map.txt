@@ -1,0 +1,35 @@
+com.example.buddhist_radios.app-jetified-customview-poolingcontainer-1.0.0-0 /Users/kanchgunathilaka/.gradle/caches/transforms-3/010f59a92d874d99828d9e7367924533/transformed/jetified-customview-poolingcontainer-1.0.0/res
+com.example.buddhist_radios.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-1 /Users/kanchgunathilaka/.gradle/caches/transforms-3/03aed728b7b013fdb0ee78eeb01c4f70/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.example.buddhist_radios.app-core-runtime-2.2.0-2 /Users/kanchgunathilaka/.gradle/caches/transforms-3/059cceda2ceccaee2d220c95320313d5/transformed/core-runtime-2.2.0/res
+com.example.buddhist_radios.app-localbroadcastmanager-1.1.0-3 /Users/kanchgunathilaka/.gradle/caches/transforms-3/06856dd54ec6bc01e8dd81175c905b6c/transformed/localbroadcastmanager-1.1.0/res
+com.example.buddhist_radios.app-jetified-lifecycle-livedata-core-ktx-2.7.0-4 /Users/kanchgunathilaka/.gradle/caches/transforms-3/170cd53763ba8f7adb4146db3d69b874/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.example.buddhist_radios.app-jetified-annotation-experimental-1.4.0-5 /Users/kanchgunathilaka/.gradle/caches/transforms-3/22c4fd6c3195f761ca1e30b353d07655/transformed/jetified-annotation-experimental-1.4.0/res
+com.example.buddhist_radios.app-jetified-savedstate-1.2.1-6 /Users/kanchgunathilaka/.gradle/caches/transforms-3/2c51cff48c4133d7aa1fd8f39564f9fb/transformed/jetified-savedstate-1.2.1/res
+com.example.buddhist_radios.app-jetified-profileinstaller-1.3.1-7 /Users/kanchgunathilaka/.gradle/caches/transforms-3/3a651e584a887aa677778d47c9be7a5d/transformed/jetified-profileinstaller-1.3.1/res
+com.example.buddhist_radios.app-jetified-window-1.2.0-8 /Users/kanchgunathilaka/.gradle/caches/transforms-3/49ca8dca74d3fdc122073b7a5974c5d0/transformed/jetified-window-1.2.0/res
+com.example.buddhist_radios.app-jetified-exoplayer-ui-2.19.1-9 /Users/kanchgunathilaka/.gradle/caches/transforms-3/4a78b95de0966f31e317718133b53484/transformed/jetified-exoplayer-ui-2.19.1/res
+com.example.buddhist_radios.app-jetified-core-ktx-1.13.1-10 /Users/kanchgunathilaka/.gradle/caches/transforms-3/50387cd88c023d005c13721cd1e42893/transformed/jetified-core-ktx-1.13.1/res
+com.example.buddhist_radios.app-jetified-exoplayer-core-2.19.1-11 /Users/kanchgunathilaka/.gradle/caches/transforms-3/5467830f91db69a5a44a178cc5506c16/transformed/jetified-exoplayer-core-2.19.1/res
+com.example.buddhist_radios.app-jetified-window-java-1.2.0-12 /Users/kanchgunathilaka/.gradle/caches/transforms-3/59bb600599ffc39d52050250ec56e1ed/transformed/jetified-window-java-1.2.0/res
+com.example.buddhist_radios.app-lifecycle-livedata-core-2.7.0-13 /Users/kanchgunathilaka/.gradle/caches/transforms-3/65ce53a4ddfdb59a5b397e30d838cf99/transformed/lifecycle-livedata-core-2.7.0/res
+com.example.buddhist_radios.app-fragment-1.7.1-14 /Users/kanchgunathilaka/.gradle/caches/transforms-3/7799b48b7fd3b8774825c296dd579627/transformed/fragment-1.7.1/res
+com.example.buddhist_radios.app-jetified-activity-1.8.1-15 /Users/kanchgunathilaka/.gradle/caches/transforms-3/79ec32d8a10e17b411b21d078bbf9fd2/transformed/jetified-activity-1.8.1/res
+com.example.buddhist_radios.app-jetified-tracing-1.2.0-16 /Users/kanchgunathilaka/.gradle/caches/transforms-3/830f0e2b5814c757e69ceb8a857fc725/transformed/jetified-tracing-1.2.0/res
+com.example.buddhist_radios.app-jetified-extension-mediasession-2.19.1-17 /Users/kanchgunathilaka/.gradle/caches/transforms-3/83b38dc343daebc3112dd61a0489adca/transformed/jetified-extension-mediasession-2.19.1/res
+com.example.buddhist_radios.app-media-1.6.0-18 /Users/kanchgunathilaka/.gradle/caches/transforms-3/8b27a8ccc020f35bbf3929a083350c6f/transformed/media-1.6.0/res
+com.example.buddhist_radios.app-core-1.13.1-19 /Users/kanchgunathilaka/.gradle/caches/transforms-3/9560b4392b8a1575165d2e7541c36546/transformed/core-1.13.1/res
+com.example.buddhist_radios.app-recyclerview-1.3.0-20 /Users/kanchgunathilaka/.gradle/caches/transforms-3/aaad5bb56752aea8e16cc03a495a77ae/transformed/recyclerview-1.3.0/res
+com.example.buddhist_radios.app-lifecycle-viewmodel-2.7.0-21 /Users/kanchgunathilaka/.gradle/caches/transforms-3/ac4d71d3da5bf20d2759902ba132196e/transformed/lifecycle-viewmodel-2.7.0/res
+com.example.buddhist_radios.app-lifecycle-livedata-2.7.0-22 /Users/kanchgunathilaka/.gradle/caches/transforms-3/acc71736c9cd2e1ac61f7931b10b068a/transformed/lifecycle-livedata-2.7.0/res
+com.example.buddhist_radios.app-lifecycle-runtime-2.7.0-23 /Users/kanchgunathilaka/.gradle/caches/transforms-3/b2a4352c1156d2493282fb6c6534b9de/transformed/lifecycle-runtime-2.7.0/res
+com.example.buddhist_radios.app-jetified-core-1.0.0-24 /Users/kanchgunathilaka/.gradle/caches/transforms-3/c31a4bb5a15a2ee7a96dbe06c89e85f5/transformed/jetified-core-1.0.0/res
+com.example.buddhist_radios.app-jetified-lifecycle-process-2.7.0-25 /Users/kanchgunathilaka/.gradle/caches/transforms-3/dbde9cdc77876e4df7bbc93ff1556b43/transformed/jetified-lifecycle-process-2.7.0/res
+com.example.buddhist_radios.app-jetified-startup-runtime-1.1.1-26 /Users/kanchgunathilaka/.gradle/caches/transforms-3/fabdcf8916c57220c7a394d04ce23100/transformed/jetified-startup-runtime-1.1.1/res
+com.example.buddhist_radios.app-debug-27 /Users/kanchgunathilaka/development/Github/Buddhist Radios/android/app/src/debug/res
+com.example.buddhist_radios.app-main-28 /Users/kanchgunathilaka/development/Github/Buddhist Radios/android/app/src/main/res
+com.example.buddhist_radios.app-pngs-29 /Users/kanchgunathilaka/development/Github/Buddhist Radios/build/app/generated/res/pngs/debug
+com.example.buddhist_radios.app-resValues-30 /Users/kanchgunathilaka/development/Github/Buddhist Radios/build/app/generated/res/resValues/debug
+com.example.buddhist_radios.app-packageDebugResources-31 /Users/kanchgunathilaka/development/Github/Buddhist Radios/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.buddhist_radios.app-packageDebugResources-32 /Users/kanchgunathilaka/development/Github/Buddhist Radios/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.buddhist_radios.app-merged_res-33 /Users/kanchgunathilaka/development/Github/Buddhist Radios/build/app/intermediates/merged_res/debug
+com.example.buddhist_radios.app-packaged_res-34 /Users/kanchgunathilaka/development/Github/Buddhist Radios/build/radio_player/intermediates/packaged_res/debug
